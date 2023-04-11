@@ -1,0 +1,32 @@
+.mainDiv{
+    background-color: yellow;
+    height: 100vh;
+}
+.formDataDiv{
+    background-color: red;
+    width: 100%;
+    height: 50vh;
+    display: flex;
+}
+.formDiv{
+
+    background-color: brown;
+    border: 5px solid;
+    width: 50%;
+    height: 100%;
+}
+.liveDataDiv{
+    background-color: brown;
+    border: 5px solid;
+    width: 50%;
+    height: 100%;
+}
+.tableDiv{
+background-color: green;
+width: 100%;
+height: 100vh;
+}
+span{
+    cursor: pointer;
+    margin-left: 10px;
+}
