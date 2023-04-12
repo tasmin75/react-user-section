@@ -1,12 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import Form from './components/Form/Form';
+import SectionOne from './components/SectionOne';
 
 function App() {
   return (
     <div className="App">
    
-     <Form/>
+     <SectionOne/>
     </div>
   );
 }
